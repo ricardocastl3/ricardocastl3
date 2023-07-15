@@ -23,7 +23,7 @@
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocastl3&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h2>📲 Social Media </h2>
+<h3>📲 Social Media </h3>
 
 <div style="display:flex;margin: 30px 30px 0px 0px;">
     <a style="margin-left:10px;" href="https://www.linkedin.com/in/ricardocastles/">
@@ -34,7 +34,7 @@
     </a>
 </div>
 
-<h2>🚀 Work tools</h2>
+<h3>🚀 Work tools</h3>
 
 <div style="display:flex;margin:20px 20px 0px 0px;">
 
@@ -53,11 +53,11 @@
           
 </div>
 
-<h2>🟢 Events </h2>
+<h3>🌟 Events </h3>
 
 * Hackathon Questrade Brasil - Project: https://github.com/ricardocastl3/flexloans
 
-<h2>🕹️ Recent Projects</h2>
+<h3>🕹️ Recent Projects</h3>
 
 * [NodeProduct](https://github.com/ricardocastl3/nodeproduct) - REST API, which returns product data using node.js.
 * [FlexLoan](https://github.com/ricardocastl3/flexloans) - Project developed at Hackathon Questrade Brasil.
