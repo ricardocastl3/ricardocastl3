@@ -9,6 +9,8 @@
 
 📍 I create tools to answer the difficulty of other developers
 
+📂 Here on GitHub you can find some of my projects
+
 🎯 To work: ricardocastelo400@gmail.com
 
 <h4>🎯 I believe that adapting to new technologies, tools, scenarios, environments is one of the most crucial skills that every IT professional needs to have.</h4>
