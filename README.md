@@ -1,7 +1,7 @@
 
 
 <h1 align="left"> 💁 Hi, I'm Ricardo Castle 🌟</h1>
-<h3 align="left"> 🌟 A software developer passionate about adapting new technologies, tools and scenarios. </h3>
+<h3 align="left"> 💻 A software developer passionate about adapting new technologies, tools and scenarios. </h3>
 
 🎲 I like to share knowledge
 
