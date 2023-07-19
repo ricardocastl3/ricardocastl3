@@ -35,10 +35,10 @@
     <a href="https://www.youtube.com/@ricardocoder" target="_blank">
       <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
     </a>
-    <a href="https://medium.com/" target="_blank">
+    <a href="https://medium.com/@ricardocasdium" target="_blank">
       <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
     </a>
-    <a href="https://www.kaggle.com" target="_blank">
+    <a href="https://www.kaggle.com/ricardocastel0" target="_blank">
       <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
     </a>
 </div>
