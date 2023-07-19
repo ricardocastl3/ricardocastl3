@@ -3,17 +3,17 @@
 <h1 align="left"> 💁 Hi, I'm Ricardo Castle 🌟</h1>
 <h3 align="left"> &nbsp;A software developer passionate about adapting new technologies, tools and scenarios. </h3>
 
-🎲 I like to share knowledge
+- 🎲 I like to share knowledge
 
-⚙️ Solve challenges
+- 📚 Solve challenges
 
-📍 I create tools to answer the difficulty of other developers
+- ⚙️ I create tools to answer the difficulty of other developers
 
-📂 Here on GitHub you can find some of my projects
+- 📂 Here on GitHub you can find some of my projects
 
-🎯 To work: ricardocastelo400@gmail.com
+- 📂 To work: ricardocastelo400@gmail.com
 
-<h4>🎯 I believe that adapting to new technologies, tools, scenarios, environments is one of the most crucial skills that every IT professional needs to have.</h4>
+- <h4>🎯 I believe that adapting to new technologies, tools, scenarios, environments is one of the most crucial skills that every IT professional needs to have.</h4>
 
 ##
 
@@ -23,7 +23,7 @@
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocastl3&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3>📲 Social Media </h3>
+<h3>Social Media </h3>
 
 <div style="display:flex;margin: 30px 30px 0px 0px;">
     <a style="margin-left:10px;" href="https://www.linkedin.com/in/ricardocastles/">
@@ -34,7 +34,7 @@
     </a>
 </div>
 
-<h3>🚀 Work tools</h3>
+<h3>Work tools</h3>
 
 <div style="display:flex;margin:20px 20px 0px 0px;">
 
@@ -59,7 +59,7 @@
 
 * Hackathon Questrade Brasil - Project: https://github.com/ricardocastl3/flexloans
 
-<h3>🕹️ Recent Projects</h3>
+<h3>🌟 Recent Projects</h3>
 
 * [NodeProduct](https://github.com/ricardocastl3/nodeproduct) - REST API, which returns product data using node.js.
 * [FlexLoan](https://github.com/ricardocastl3/flexloans) - Project developed at Hackathon Questrade Brasil.
