@@ -23,7 +23,7 @@
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocastl3&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3>Social Media </h3>
+<h3>Social Network </h3>
 
 <div style="display:flex;margin: 30px 30px 0px 0px;">
     <a style="margin-left:10px;" href="https://www.linkedin.com/in/ricardocastles/">
