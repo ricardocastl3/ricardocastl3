@@ -4,8 +4,8 @@
 <h3 align="left"> &nbsp;A software developer passionate about adapting new technologies, tools and scenarios. </h3>
 
 - 🎲 I like to share knowledge
-- 
-- 🎲 I'm currently delving into Angular, React and microservices.
+  
+- 🎲 I'm currently delving into Angular, React, APIs and microservices.
 
 - 📚 Solve challenges
 
