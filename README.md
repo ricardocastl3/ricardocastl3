@@ -18,7 +18,7 @@
 ##
 
 <div style="display:flex;justify-content:center;">
-  <a href="https://github.com/ricardocastl3">
+  <a href="https://github.com/ricardocastl3" target="_blank">
   <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardocastl3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocastl3&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -26,10 +26,10 @@
 <h3>Social Network </h3>
 
 <div style="display:flex;margin: 30px 30px 0px 0px;">
-    <a style="margin-left:10px;" href="https://www.linkedin.com/in/ricardocastles/">
+    <a style="margin-left:10px;" href="https://www.linkedin.com/in/ricardocastles/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" style="border-radius:20px">
     </a>
-    <a style="margin-left:10px" href="https://www.instagram.com/ricardocodex/">
+    <a style="margin-left:10px" href="https://www.instagram.com/ricardocodex/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" style="border-radius:20px">
     </a>
     <a href="https://www.youtube.com/@ricardocoder" target="_blank">
