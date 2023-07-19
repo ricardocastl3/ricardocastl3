@@ -32,6 +32,15 @@
     <a style="margin-left:10px" href="https://www.instagram.com/ricardocodex/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" style="border-radius:20px">
     </a>
+    <a href="https://www.youtube.com/@ricardocoder" target="_blank">
+      <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
+    </a>
+    <a href="https://medium.com/" target="_blank">
+      <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
+    </a>
+    <a href="https://www.kaggle.com" target="_blank">
+      <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" height="25px" style="border-radius:20px"/>
+    </a>
 </div>
 
 <h3>Work tools</h3>
