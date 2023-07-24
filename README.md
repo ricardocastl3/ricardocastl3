@@ -77,4 +77,3 @@
 * [NodeProduct](https://github.com/ricardocastl3/nodeproduct) - REST API, which returns product data using node.js.
 * [FlexLoan](https://github.com/ricardocastl3/flexloans) - Project developed at Hackathon Questrade Brasil.
 * [Blackrise](https://github.com/ricardocastl3/blackrise) - Storytelling Platform.
-* [AngularTODO](https://github.com/ricardocastl3/angulartodo) - Publish your stories and make them true to the world.
