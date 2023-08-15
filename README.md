@@ -77,3 +77,4 @@
 * [NodeProduct](https://github.com/ricardocastl3/nodeproduct) - REST API, which returns product data using node.js.
 * [FlexLoan](https://github.com/ricardocastl3/flexloans) - Project developed at Hackathon Questrade Brasil.
 * [DevOps Form Registration](https://github.com/ricardocastl3/devops-form) - Registration template.
+* [Form Academy](https://github.com/ricardocastl3/form-register-course) - Registration template to embed in your project
